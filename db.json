@@ -1,0 +1,64 @@
+{
+    "posts": [
+        {
+            "title": "Exploring the Unknown",
+            "body": "Discover new places and experience new adventures with our travel guide.",
+            "image": "https://picsum.photos/600/400?random=1",
+            "tag": "travel"
+        },
+        {
+            "title": "Gadgets of the Future",
+            "body": "Latest advancements in technology and what to expect in the future.",
+            "image": "https://picsum.photos/600/400?random=2",
+            "tag": "gadgets"
+        },
+        {
+            "title": "Top 10 Movies to Watch",
+            "body": "A curated list of must-see movies that you should add to your watchlist.",
+            "image": "https://picsum.photos/600/400?random=3",
+            "tag": "movies"
+        },
+        {
+            "title": "The Best Music Albums",
+            "body": "An overview of the best albums released this year across various genres.",
+            "image": "https://picsum.photos/600/400?random=4",
+            "tag": "music"
+        },
+        {
+            "title": "Delicious Recipes",
+            "body": "Try these mouth-watering recipes that will impress your guests and family.",
+            "image": "https://picsum.photos/600/400?random=5",
+            "tag": "food"
+        },
+        {
+            "title": "Travel Hacks",
+            "body": "Useful tips and tricks to make your travel experience smooth and enjoyable.",
+            "image": "https://picsum.photos/600/400?random=6",
+            "tag": "travel"
+        },
+        {
+            "title": "Innovative Gadgets",
+            "body": "Explore the latest and most innovative gadgets that are changing the tech landscape.",
+            "image": "https://picsum.photos/600/400?random=7",
+            "tag": "gadgets"
+        },
+        {
+            "title": "Upcoming Movie Releases",
+            "body": "Stay updated with the latest movies hitting theaters this season.",
+            "image": "https://picsum.photos/600/400?random=8",
+            "tag": "movies"
+        },
+        {
+            "title": "Concert Reviews",
+            "body": "Read our reviews of the latest concerts and music festivals.",
+            "image": "https://picsum.photos/600/400?random=9",
+            "tag": "music"
+        },
+        {
+            "title": "Healthy Eating",
+            "body": "A guide to healthy eating with tips and recipes to maintain a balanced diet.",
+            "image": "https://picsum.photos/600/400?random=10",
+            "tag": "food"
+        }
+    ]
+}
